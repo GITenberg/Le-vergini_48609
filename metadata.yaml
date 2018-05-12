@@ -1,4 +1,8 @@
 _repo: Le-vergini_48609
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48609-h/images/cover.jpg
 creator:
   author:
     agent_name: Praga, Marco
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '25360'
     url: http://www.gutenberg.org/2009/agents/25360
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48609#Le-vergini
 gutenberg_bookshelf: IT Teatro in prosa
 gutenberg_issued: '2015-03-30'
 gutenberg_type: Text
